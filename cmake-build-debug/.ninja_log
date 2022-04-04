@@ -1,0 +1,6 @@
+# ninja log v5
+14	940	6707840897906726	CMakeFiles/Part_A.dir/Matrix.cpp.obj	302370005a192532
+0	609	6707840894595599	CMakeFiles/Part_A.dir/main.cpp.obj	4d7690491ba65374
+8	919	6707840897687309	CMakeFiles/Part_A.dir/Demo.cpp.obj	481afb00fbf5b128
+2	306	6707841318307444	build.ninja	8fa79c80ab1b1c50
+5	234	6707841321209942	Part_A.exe	3eb762cff92cbb69
