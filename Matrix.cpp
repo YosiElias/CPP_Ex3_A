@@ -83,6 +83,17 @@ namespace zich{
         return (true);
     }
 
+    bool operator<(const Matrix& c1, const Matrix& c2) {
+        // return ( (c1._re!=c2._re) || (c1._im!=c2._im) );
+        return (true);
+    }
+
+bool operator>(const Matrix& c1, const Matrix& c2) {
+        // return ( (c1._re!=c2._re) || (c1._im!=c2._im) );
+        return (true);
+    }
+
+
 
 
 

@@ -139,6 +139,10 @@ namespace zich {
 
         friend bool operator!=(const Matrix &c1, const Matrix &c2);
 
+        friend bool operator<(const Matrix &c1, const Matrix &c2);
+
+        friend bool operator>(const Matrix &c1, const Matrix &c2);
+
 
     //----------------------------------
     // friend global IO operators
